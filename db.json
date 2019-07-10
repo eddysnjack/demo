@@ -1,9 +1,8 @@
 {
   "posts": [
-    {
-      "id": "613e6169-d6aa-44d5-9ea1-9d4c2ddb0655", 
-     "userRole": 2
-    }
+    { "id": "613e6169-d6aa-44d5-9ea1-9d4c2ddb0655", "userRole": 2}, 
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
