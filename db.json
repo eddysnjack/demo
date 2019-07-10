@@ -1,17 +1,9 @@
 {
-"employee":
-  {
-    "email":"ademifti@email.com",
-     "password": "adem123",
-  }
-}
-
-
-/*{
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    {
+      "id": "613e6169-d6aa-44d5-9ea1-9d4c2ddb0655", 
+     "userRole": 2
+    }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
@@ -20,4 +12,4 @@
   "profile": {
     "name": "typicode"
   }
-}*/
+}
